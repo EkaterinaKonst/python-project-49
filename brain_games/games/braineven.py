@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import prompt
 import random
-from ..engine import *
+
 
 
 def rules():
@@ -16,11 +16,3 @@ def evenbrain():
     else:
         res_list.append('no')
     return res_list
-
-
-def main():
-    engine_game(evenbrain)
-
-
-if __name__ == '__main__':
-    main()
