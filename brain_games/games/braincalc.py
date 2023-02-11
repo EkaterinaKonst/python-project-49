@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import prompt
 import random
 import numexpr as ne
 

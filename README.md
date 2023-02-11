@@ -2,6 +2,8 @@ https://asciinema.org/a/kDjryKxRJxohphcnrA0p7VXF6   brain-even
 
 https://asciinema.org/a/8VCzQsdakqzNxagOyMTy0TyHp   brain-calc
 
+https://asciinema.org/a/A68PcdtRuxgCBtSvHEMu0bDwu   brain-gsd
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/EkaterinaKonst/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/EkaterinaKonst/python-project-49/actions)
 
