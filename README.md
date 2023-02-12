@@ -4,6 +4,10 @@ https://asciinema.org/a/8VCzQsdakqzNxagOyMTy0TyHp   brain-calc
 
 https://asciinema.org/a/A68PcdtRuxgCBtSvHEMu0bDwu   brain-gsd
 
+https://asciinema.org/a/NWHqKGHh8b7IxzjZK1loxynPA   brain-progression
+
+
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/EkaterinaKonst/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/EkaterinaKonst/python-project-49/actions)
 
