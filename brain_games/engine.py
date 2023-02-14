@@ -11,7 +11,8 @@ def engine_game(rules, func):
     trials = 3
     count_victory = 0
     print('Welcome to the Brain Games!')
-    name = greeting()
+    name_and_greeting = greeting()
+    print(f'Hello {name_and_greeting}!')
     rules()
     while trials != 0:
         result = func()
@@ -22,8 +23,8 @@ def engine_game(rules, func):
             print('Correct!')
         else:
             print(f'"{answer}" is wrong answer ;(. Correct answer was "{result[1]}".')
-            print(f"Let's try again, {name}")
+            print(f"Let's try again, {name_and_greeting }")
             break
         trials -= 1
     if count_victory == 3:
-        print(f"Congratulations, {name}")
+        print(f"Congratulations, {name_and_greeting}")
