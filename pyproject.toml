@@ -4,9 +4,13 @@ version = "0.1.0"
 description = "Console games"
 authors = ["Ekaterina Konstantinova <feldsher2812@gmail.com>"]
 readme = "README.md"
+classifiers = ["Environment :: Console",
+               "Programming Language :: Python :: 3.10",
+               "Topic :: Games/Entertainment"]
 packages = [
   { include = "brain_games" },
 ]
+repository = "https://github.com/EkaterinaKonst/python-project-49"
 
 [tool.poetry.dependencies]
 python = "^3.9"
