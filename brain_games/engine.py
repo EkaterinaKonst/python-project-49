@@ -6,6 +6,7 @@ def greeting():
     name = prompt.string('May I have your name? ')
     return name
 
+
 def engine_game(rules, func):
     trials = 3
     count_victory = 0
@@ -26,5 +27,3 @@ def engine_game(rules, func):
         trials -= 1
     if count_victory == 3:
         print(f"Congratulations, {name}")
-
-

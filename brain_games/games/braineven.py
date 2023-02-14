@@ -2,9 +2,9 @@
 import random
 
 
-
 def evenbrain_rules():
     print('Answer "yes" if the number is even, otherwise answer "no".')
+
 
 def evenbrain():
     res_list = []

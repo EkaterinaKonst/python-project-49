@@ -5,6 +5,7 @@ import random
 def gsd_brain_rules():
     print('Find the greatest common divisor of given numbers.')
 
+
 def gsd_brain():
     res_list = []
     num_1 = abs(random.randint(1, 100))

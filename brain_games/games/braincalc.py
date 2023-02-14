@@ -3,9 +3,9 @@ import random
 import numexpr as ne
 
 
-
 def calcbrain_rules():
     print('What is the result of the expression?')
+
 
 def calcbrain():
     res_list = []
