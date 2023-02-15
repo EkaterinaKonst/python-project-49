@@ -4,6 +4,7 @@ import prompt
 
 def greeting():
     name = prompt.string('May I have your name? ')
+    print(f'Hello {name}!')
     return name
 
 
@@ -12,7 +13,6 @@ def engine_game(rules, func):
     count_victory = 0
     print('Welcome to the Brain Games!')
     name_and_greeting = greeting()
-    print(f'Hello {name_and_greeting}!')
     rules()
     while trials != 0:
         result = func()
