@@ -13,7 +13,7 @@ def calcbrain():
     num_1 = random.randint(1, 100)
     num_2 = random.randint(1, 100)
     operator = random.choice(operators)
-    res_list.append(f'{num_1}{operator}{num_2}')
+    res_list.append(f'{num_1} {operator} {num_2}')
     expression = res_list[0]
     result_expression = str(ne.evaluate(expression))
     res_list.append(result_expression)
