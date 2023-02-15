@@ -27,4 +27,4 @@ def engine_game(rules, func):
             break
         trials -= 1
     if count_victory == 3:
-        print(f"Congratulations, {name_and_greeting}")
+        print(f"Congratulations, {name_and_greeting}!")
