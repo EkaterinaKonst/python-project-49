@@ -8,8 +8,8 @@ def gcd_brain_rules():
 
 def gcd_brain():
     res_list = []
-    num_1 = abs(random.randint(1, 100))
-    num_2 = abs(random.randint(1, 100))
+    num_1 = random.randint(1, 100)
+    num_2 = random.randint(1, 100)
     res_list.append(f'{num_1} {num_2}')
     while num_1 != 0 and num_2 != 0:
         if num_1 >= num_2:
