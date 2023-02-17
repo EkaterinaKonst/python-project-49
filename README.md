@@ -46,13 +46,13 @@ make package-install
 
 ### Scripts demo
 
-https://asciinema.org/a/kDjryKxRJxohphcnrA0p7VXF6   brain-even
+https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5   brain-even
 
-https://asciinema.org/a/8VCzQsdakqzNxagOyMTy0TyHp   brain-calc
+https://asciinema.org/a/IUZMZK5MgWZdRo3Mnozt0A6VP   brain-calc
 
-https://asciinema.org/a/A68PcdtRuxgCBtSvHEMu0bDwu   brain-gsd
+https://asciinema.org/a/97c0vTSr8WNyd6hwgMlygawhc   brain-gcd
 
-https://asciinema.org/a/NWHqKGHh8b7IxzjZK1loxynPA   brain-progression
+https://asciinema.org/a/JC2b4qdhjOxNyBnUfDgROxxnR   brain-progression
 
-https://asciinema.org/a/RYjZ73EUNfN51JrjqEKyMh1Dn   brain-prime
+https://asciinema.org/a/QKMgzoqLj7eWHRLFcccOEpIs6   brain-prime
 
