@@ -2,11 +2,11 @@
 import random
 
 
-def gsd_brain_rules():
+def gcd_brain_rules():
     print('Find the greatest common divisor of given numbers.')
 
 
-def gsd_brain():
+def gcd_brain():
     res_list = []
     num_1 = abs(random.randint(1, 100))
     num_2 = abs(random.randint(1, 100))

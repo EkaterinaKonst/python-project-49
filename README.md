@@ -3,29 +3,30 @@
 
 <a href="https://codeclimate.com/github/EkaterinaKonst/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/856a67b71015f5e578af/maintainability" /></a>
 
-Description
+###Description
 This project is a small entartainment package of 5 console mathematical games. You have to give 3 correct answers for each quiz, wrong answer terminates game.
 
-brain-even
+#####brain-even
 Guess whether the shown number is even or not.
 
-brain-calc
+#####brain-calc
 Guess the result of simple mathematic expression.
 
-brain-gcd
+#####brain-gcd
 Guess the greatest common divisor of two given numbers.
 
-brain-progression
+#####brain-progression
 Guess the missing number in given progression.
 
-brain-prime
+#####brain-prime
 Guess whether the given number is prime or not.
 
-Minimum requirements
+###Minimum requirements
 python3.9
 
-Installation guide
+###Installation guide
 To install the package for an end-user
+
 Execute:
 
 python3 -m pip install --user dist/*.whl
@@ -43,7 +44,7 @@ To install the package execute:
 
 make package-install
 
-Scripts demo
+###Scripts demo
 
 https://asciinema.org/a/kDjryKxRJxohphcnrA0p7VXF6   brain-even
 
