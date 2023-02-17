@@ -9,9 +9,8 @@ def progression_rules():
 def progression_brain():
     res_list = []
     start = abs(random.randint(1, 100))
-    stop = start + abs(random.randint(7, 10))
-    step = abs(random.randint(1, 2))
-    progress_list = list(range(start, stop, step))
+    stop = start + abs(random.randint(5, 10))
+    progress_list = list(range(start, stop))
     random_index = random.randint(0, len(progress_list) - 1)
     correct_answer = str(progress_list[random_index])
     progress_list_output = progress_list[:]
