@@ -22,7 +22,8 @@ def engine_game(rules, func):
             count_victory += 1
             print('Correct!')
         else:
-            print(f'"{answer}" is wrong answer ;(. Correct answer was "{result[1]}".')
+            print(f'"{answer}" is wrong answer ;(. ', end='')
+            print(f'Correct answer was "{result[1]}".')
             print(f"Let's try again, {name_and_greeting }!")
             break
         trials -= 1
