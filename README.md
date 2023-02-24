@@ -47,7 +47,7 @@ make package-install
 ### Scripts demo
 
 <p>brain-even</p>
-<script src="https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5 " id="asciicast-14" async></script>
+<video src='https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5' width=180/>
 
 https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5   brain-even
 
