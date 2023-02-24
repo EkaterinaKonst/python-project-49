@@ -47,17 +47,22 @@ make package-install
 ### Scripts demo
 
 <p>brain-even</p>
+
 [![asciicast](https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5.svg)](https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5)
 
 <p>brain-calc</p>
+
 [![asciicast](https://asciinema.org/a/IUZMZK5MgWZdRo3Mnozt0A6VP.svg)](https://asciinema.org/a/IUZMZK5MgWZdRo3Mnozt0A6VP)
 
 <p>brain-gcd</p>
+
 [![asciicast](https://asciinema.org/a/97c0vTSr8WNyd6hwgMlygawhc.svg)](https://asciinema.org/a/97c0vTSr8WNyd6hwgMlygawhc)
 
 <p>brain-progression</p>
+
 [![asciicast](https://asciinema.org/a/JC2b4qdhjOxNyBnUfDgROxxnR.svg)](https://asciinema.org/a/JC2b4qdhjOxNyBnUfDgROxxnR)
 
 <p>brain-prime</p>
+
 [![asciicast](https://asciinema.org/a/QKMgzoqLj7eWHRLFcccOEpIs6.svg)](https://asciinema.org/a/QKMgzoqLj7eWHRLFcccOEpIs6)
 
