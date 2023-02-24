@@ -47,16 +47,17 @@ make package-install
 ### Scripts demo
 
 <p>brain-even</p>
-
 [![asciicast](https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5.svg)](https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5)
 
-https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5   brain-even
+<p>brain-calc</p>
+[![asciicast](https://asciinema.org/a/IUZMZK5MgWZdRo3Mnozt0A6VP.svg)](https://asciinema.org/a/IUZMZK5MgWZdRo3Mnozt0A6VP)
 
-https://asciinema.org/a/IUZMZK5MgWZdRo3Mnozt0A6VP   brain-calc
+<p>brain-gcd</p>
+[![asciicast](https://asciinema.org/a/97c0vTSr8WNyd6hwgMlygawhc.svg)](https://asciinema.org/a/97c0vTSr8WNyd6hwgMlygawhc)
 
-https://asciinema.org/a/97c0vTSr8WNyd6hwgMlygawhc   brain-gcd
+<p>brain-progression</p>
+[![asciicast](https://asciinema.org/a/JC2b4qdhjOxNyBnUfDgROxxnR.svg)](https://asciinema.org/a/JC2b4qdhjOxNyBnUfDgROxxnR)
 
-https://asciinema.org/a/JC2b4qdhjOxNyBnUfDgROxxnR   brain-progression
-
-https://asciinema.org/a/QKMgzoqLj7eWHRLFcccOEpIs6   brain-prime
+<p>brain-prime</p>
+[![asciicast](https://asciinema.org/a/QKMgzoqLj7eWHRLFcccOEpIs6.svg)](https://asciinema.org/a/QKMgzoqLj7eWHRLFcccOEpIs6)
 
