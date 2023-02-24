@@ -48,7 +48,7 @@ make package-install
 
 <p>brain-even</p>
 
-<script async id="asciicast-JmhcKaPBqY9I6knzc1isBYKM5" src="https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5.js"></script>
+[![asciicast](https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5.svg)](https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5)
 
 https://asciinema.org/a/JmhcKaPBqY9I6knzc1isBYKM5   brain-even
 
