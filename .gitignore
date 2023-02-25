@@ -1,9 +1,4 @@
 /.venv/
 __pycache__/
 dist/
-/.github/workflows/
 /.idea/
-brain_calc.py
-brain_gcd.py
-brain_prime.py
-brain_even.py
