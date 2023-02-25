@@ -3,6 +3,7 @@
 
 <a href="https://codeclimate.com/github/EkaterinaKonst/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/856a67b71015f5e578af/maintainability" /></a>
 
+
 ### Description
 This project is a small entartainment package of 5 console mathematical games. You have to give 3 correct answers for each quiz, wrong answer terminates game.
 
